@@ -2,7 +2,7 @@
 Implementation of microservices in Nest JS
 
 - There are two micorservices `communication` and `analytics`
-- 'Backend` is the gateway for project.
+- `Backend` is the gateway for project.
 - TCP connection is used for communication between microservices.
 
 

@@ -9,6 +9,6 @@ Implementation of microservices in Nest JS
 # How to run the project?
 Run the following commands in terminal of each project:
 
-'''
+```
 npm run start: dev
-'''
+```
